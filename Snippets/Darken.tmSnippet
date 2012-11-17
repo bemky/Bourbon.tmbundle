@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@include linear-gradient(${1:white}, ${2:black});$0</string>
+	<string>darken(${1:white}, ${2:50});$0</string>
 	<key>name</key>
-	<string>Linear-Gradient</string>
+	<string>Darken</string>
 	<key>scope</key>
 	<string>source.css, source.scss</string>
 	<key>tabTrigger</key>
-	<string>linear-gradient</string>
+	<string>darken</string>
 	<key>uuid</key>
-	<string>696D477E-18F0-430B-90A2-D41194CE4AAD</string>
+	<string>CCDFF232-0DD7-4326-86E6-8134F8333800</string>
 </dict>
 </plist>

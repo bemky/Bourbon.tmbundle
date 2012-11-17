@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@include inline-block;</string>
+	<string>@include inline-block;$0</string>
 	<key>name</key>
 	<string>Inline-Block</string>
 	<key>scope</key>

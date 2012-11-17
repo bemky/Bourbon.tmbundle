@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>@include box-shadow(${1:1px} ${2:1px} ${3:1px} ${4:rgba(black, .5)});</string>
+	<string>@include box-shadow(${1:1px} ${2:1px} ${3:1px} ${4:rgba(black, .5)});$0</string>
 	<key>name</key>
 	<string>Box-Shadow</string>
 	<key>scope</key>
